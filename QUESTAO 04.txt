@@ -1,0 +1,3 @@
+Acredito que pode ser realizado através da temperatura das lampadas. Liga um primeiro interruptor, aguarda alguns minutos, depois vai até a sala e observa a lampada "mais quente". Automaticamente
+você já sabe a qual lampada pertence aquele interruptor, depois você repete o processo, pressiona o segundo interruptor, aguarda outros minutos, vai novamente a sala, obersva das duas que sobraram qual está
+mais quente e relaciona ao interruptor ligado. depois, a que sobrou, está relacionada ao interruptor que também sobrou.

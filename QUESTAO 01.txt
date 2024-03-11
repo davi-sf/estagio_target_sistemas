@@ -1,0 +1,1 @@
+A resposta correta é 91, foi feito um codigo em Java, "soma", para provar o que foi pedido.

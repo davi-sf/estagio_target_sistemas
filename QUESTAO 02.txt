@@ -1,0 +1,1 @@
+Foi feito um codigo em java, onde retorna true para o caso onde o numero exista na sequencia de fibonacci e false, para o caso contrario
